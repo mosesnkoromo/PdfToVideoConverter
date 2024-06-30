@@ -61,7 +61,7 @@ Install the required Python packages:
 poetry shell
 ```
 ```bash
-poetry Install
+poetry install
 ```
 ```bash
 fastapi dev
